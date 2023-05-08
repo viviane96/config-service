@@ -1,6 +1,6 @@
 spring:
    application:
-      name: greeteing-service
+      name: greeting-service
 management:
    endpoints:
       web:
